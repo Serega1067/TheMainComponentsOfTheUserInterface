@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TheMainComponentsOfTheUserInterface</string>
+    <string name="text_main">Hello World!</string>
+    <string name="email_edit_text">email</string>
+    <string name="password_edit_text">password</string>
+    <string name="log_in_edit_text">Log In</string>
+    <string name="email_text_input_layout">Email</string>
+    <string name="email_text_input_edit_text">email</string>
+    <string name="button_text_changing_theme">Изменить тему</string>
 </resources>

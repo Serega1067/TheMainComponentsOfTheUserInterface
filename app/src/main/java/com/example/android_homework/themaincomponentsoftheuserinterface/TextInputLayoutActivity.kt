@@ -1,6 +1,6 @@
 package com.example.android_homework.themaincomponentsoftheuserinterface
 
-import android.annotation.SuppressLint
+//import android.annotation.SuppressLint
 import android.os.Bundle
 import android.util.Patterns
 import android.widget.EditText
@@ -10,7 +10,7 @@ import com.google.android.material.textfield.TextInputLayout
 
 class TextInputLayoutActivity : AppCompatActivity() {
 
-    @SuppressLint("MissingInflatedId")
+//    @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_text_input_layout)
