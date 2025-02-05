@@ -7,4 +7,8 @@
     <string name="email_text_input_layout">Email</string>
     <string name="email_text_input_edit_text">email</string>
     <string name="button_text_changing_theme">Изменить тему</string>
+    <string name="button_radio_group_activity">RadioGroupActivity</string>
+    <string name="button_edit_text_activity">EditTextActivity</string>
+    <string name="button_text_input_layout_activity">TextInputLayoutActivity</string>
+    <string name="button_changing_the_theme">ChangingTheTheme</string>
 </resources>
