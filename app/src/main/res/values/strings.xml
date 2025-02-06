@@ -11,4 +11,5 @@
     <string name="button_edit_text_activity">EditTextActivity</string>
     <string name="button_text_input_layout_activity">TextInputLayoutActivity</string>
     <string name="button_changing_the_theme">ChangingTheTheme</string>
+    <string name="button_save_changing_the_theme">Save</string>
 </resources>
