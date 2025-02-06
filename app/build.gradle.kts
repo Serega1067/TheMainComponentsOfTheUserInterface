@@ -18,7 +18,11 @@ android {
     }
 
     buildTypes {
+//        debug {
+//            buildConfigField("String", "URL_SEARCH", "\"https://dev-search.example.com\"")
+//        }
         release {
+//            buildConfigField("String", "URL_SEARCH", "\"https://search.example.com\"")
             isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
@@ -35,6 +39,7 @@ android {
     }
     buildFeatures {
         viewBinding = true
+        buildConfig = true
     }
 }
 

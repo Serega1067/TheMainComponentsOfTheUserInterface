@@ -39,6 +39,10 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, ChangingTheTheme::class.java)
             startActivity(intent)
         }
+        binding.buttonRequestCamera.setOnClickListener {
+            val intent = Intent(this, RequestCameraActivity::class.java)
+            startActivity(intent)
+        }
 
         setContentView(binding.root)
     }
